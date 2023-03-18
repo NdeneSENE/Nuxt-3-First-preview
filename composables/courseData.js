@@ -1,0 +1,98 @@
+export default {
+  title: "TypeScript with VueJS 3",
+  chapters: [
+    {
+      title: "chapitre 1",
+      slug: "chapitre-1",
+      number: 1,
+      lessons: [
+        {
+          title: "lesson 1",
+          slug: "lesson-1",
+          number: 1,
+          downloadUrl: "https://",
+          text: "In this lesson, you....",
+          videoId: 1234,
+        },
+        {
+          title: "lesson 2",
+          slug: "lesson-2",
+          number: 2,
+          downloadUrl: "https://",
+          text: "In this lesson, you....",
+          videoId: 12345,
+        },
+        {
+          title: "lesson 3",
+          slug: "lesson-3",
+          number: 3,
+          downloadUrl: "https://",
+          text: "In this lesson, you....",
+          videoId: 123456,
+        },
+      ],
+    },
+    {
+      title: "chapitre 2",
+      slug: "chapitre-2",
+      number: 1,
+      lessons: [
+        {
+          title: "lesson 1",
+          slug: "lesson-1",
+          number: 1,
+          downloadUrl: "https://",
+          text: "In this lesson, you....",
+          videoId: 1234,
+        },
+        {
+          title: "lesson 2",
+          slug: "lesson-2",
+          number: 2,
+          downloadUrl: "https://",
+          text: "In this lesson, you....",
+          videoId: 12345,
+        },
+        {
+          title: "lesson 3",
+          slug: "lesson-3",
+          number: 3,
+          downloadUrl: "https://",
+          text: "In this lesson, you....",
+          videoId: 123456,
+        },
+      ],
+    },
+    {
+      title: "chapitre 3",
+      slug: "chapitre-3",
+      number: 1,
+      lessons: [
+        {
+          title: "lesson 1",
+          slug: "lesson-1",
+          number: 1,
+          downloadUrl: "https://",
+          text: "In this lesson, you....",
+          videoId: 1234,
+        },
+        {
+          title: "lesson 2",
+          slug: "lesson-2",
+          number: 2,
+          downloadUrl: "https://",
+          text: "In this lesson, you....",
+          videoId: 12345,
+        },
+        {
+          title: "lesson 3",
+          slug: "lesson-3",
+          number: 3,
+          downloadUrl: "https://",
+          text: "In this lesson, you....",
+          videoId: 123456,
+        },
+      ],
+    },
+  ],
+};
